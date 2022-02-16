@@ -1,11 +1,11 @@
 
   # Project Name
-  adgn
+  Good README Generator
 
-  [![license](https://img.shields.io/badge/License-gpl_license-blue.svg)](https://opensource.org/licenses/gpl-license)
+  [![license](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   
   ## Descritpion
-  sfnfg
+  npm test
   ## Table Of Contents
   [Installation](#installation)
 
@@ -17,18 +17,18 @@
   ## Installation
 
   ~~~
-  adgn
+  npm i
   ~~~
 
   ## License
-  GPL
+  MPL-2.0
 
   ## Usage
-  agdn
+  Enter answers to all questions
   
   ## Test
   ~~~
-  sfnfg
+  npm test
   ~~~
 
   ## Contact
