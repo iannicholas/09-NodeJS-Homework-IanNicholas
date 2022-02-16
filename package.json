@@ -1,0 +1,23 @@
+{
+  "name": "09-nodejs-homework-iannicholas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iannicholas/09-NodeJS-Homework-IanNicholas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iannicholas/09-NodeJS-Homework-IanNicholas/issues"
+  },
+  "homepage": "https://github.com/iannicholas/09-NodeJS-Homework-IanNicholas#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0"
+  }
+}
