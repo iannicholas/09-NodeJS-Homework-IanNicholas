@@ -1,15 +1,11 @@
 
   # Project Name
-  Good README Generator
+  ECommerce BackEnd
 
-  [![license](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Descritpion
-  npm test
-
-  ## Video
-  https://drive.google.com/file/d/1lTBkegSH-7Ebef03_YOkIVrCu4tQBE9G/view
-
+  A back end Node applictaion that uses Express.js, Sequelize, and Insomnia to GET, PUT, UPDATE, and DELETE an ECommerce database.  
   ## Table Of Contents
   [Installation](#installation)
 
@@ -25,14 +21,14 @@
   ~~~
 
   ## License
-  MPL-2.0
+  MIT
 
   ## Usage
-  Enter answers to all questions
+  run in terminal 
   
   ## Test
   ~~~
-  npm test
+  no tests
   ~~~
 
   ## Contact
