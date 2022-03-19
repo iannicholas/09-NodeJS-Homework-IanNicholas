@@ -5,7 +5,8 @@
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Descritpion
-  No tests
+  Create account or login and begin blogging.
+
   ## Table Of Contents
   [Installation](#installation)
 
@@ -24,7 +25,7 @@
   MIT
 
   ## Usage
-  Create user or login and post your material.
+  Create account or login and begin blogging.
   
   ## Test
   ~~~
@@ -32,5 +33,5 @@
   ~~~
 
   ## Contact
-  With any questions contact me at <ian.nicholas.developer@gmail.com>, for contribution efforts <https://github.com/iannicholas>
+  With any questions contact me at <ian.nicholas.webdeveloper@gmail.com>, for contribution efforts <https://github.com/iannicholas>
   

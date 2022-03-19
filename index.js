@@ -71,5 +71,5 @@ function init() {
 function callFailure() {
     console.log("Something went wrong!");
 }
-// Function call to initialize app
+// initialize app
 init();

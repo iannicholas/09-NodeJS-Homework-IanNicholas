@@ -37,21 +37,11 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
     return license !== "" ? `${licenseBadge}${licenseLink}` : "";
-    // let badge = licenseBadge(licenseBadge);
-    // let link = licenseLink(licenseLink);
-    // let licenseSection = "";
-    // if (license !== "") {
-    //   licenseSection = `${badge}${link}`;
-    // } else {
-    //   licenseSection = "";
-    // }
-    // return licenseSection;
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  
-  console.log("im everywhere");
+
   return `
   # Project Name
   ${data.title}
@@ -59,7 +49,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
   
   ## Descritpion
-  ${data.usage}
+  ${data.description}
 
   ## Table Of Contents
   [Installation](#installation)
