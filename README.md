@@ -1,11 +1,11 @@
 
   # Project Name
-  ECommerce BackEnd
+  Tech Blog
 
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Descritpion
-  A back end Node applictaion that uses Express.js, Sequelize, and Insomnia to GET, PUT, UPDATE, and DELETE an ECommerce database.  
+  No tests
   ## Table Of Contents
   [Installation](#installation)
 
@@ -24,11 +24,11 @@
   MIT
 
   ## Usage
-  run in terminal 
+  Create user or login and post your material.
   
   ## Test
   ~~~
-  no tests
+  No tests
   ~~~
 
   ## Contact

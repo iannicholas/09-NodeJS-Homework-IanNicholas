@@ -59,7 +59,8 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
   
   ## Descritpion
-  ${data.testInstructions}
+  ${data.usage}
+
   ## Table Of Contents
   [Installation](#installation)
 
@@ -86,7 +87,7 @@ function generateMarkdown(data) {
   ~~~
 
   ## Contact
-  With any questions contact me at <ian.nicholas.developer@gmail.com>, for contribution efforts <https://github.com/iannicholas>
+  With any questions contact me at <ian.nicholas.webdeveloper@gmail.com>, for contribution efforts <https://github.com/iannicholas>
   `;
   }
 
