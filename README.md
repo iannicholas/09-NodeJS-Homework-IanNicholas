@@ -1,11 +1,11 @@
 
   # Project Name
-  Tech Blog
+  TradeUps
 
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Descritpion
-  Create account or login and begin blogging.
+  Propose trades, accept offers or barter with other users to find what you are looking for.
 
   ## Table Of Contents
   [Installation](#installation)
@@ -25,7 +25,7 @@
   MIT
 
   ## Usage
-  Create account or login and begin blogging.
+  Browse App, find an item you want, then make an offer!
   
   ## Test
   ~~~
